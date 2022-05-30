@@ -1,0 +1,16 @@
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.exe
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.runtimeconfig.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.runtimeconfig.dev.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\bin\Debug\net5.0\TcpClient.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\refint\TcpClient.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\TcpClient.genruntimeconfig.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Client\TcpClient\obj\Debug\net5.0\ref\TcpClient.dll

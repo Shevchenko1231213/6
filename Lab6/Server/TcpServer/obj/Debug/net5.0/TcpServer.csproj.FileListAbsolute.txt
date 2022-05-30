@@ -1,0 +1,16 @@
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.exe
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.runtimeconfig.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.runtimeconfig.dev.json
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\bin\Debug\net5.0\TcpServer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\refint\TcpServer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\TcpServer.genruntimeconfig.cache
+C:\Users\sasha\OneDrive\Рабочий стол\labs\6\Lab6\Server\TcpServer\obj\Debug\net5.0\ref\TcpServer.dll
